@@ -1,0 +1,21 @@
+{
+  "name": "gulp-web-designers",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Eden Liu <eden90267@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.1"
+  }
+}
